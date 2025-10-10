@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Ei Thiri Kyaw - Portfolio
 permalink: /projects/
 ---
 

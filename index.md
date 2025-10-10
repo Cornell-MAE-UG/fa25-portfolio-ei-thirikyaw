@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Ei Thiri Kyaw
 ---
 
 ## About Me
