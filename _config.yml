@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Ei Thiri Kyaw
 description              : Ei Thiri Kyaw - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-ei-thirikyaw/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
