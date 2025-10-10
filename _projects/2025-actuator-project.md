@@ -1,6 +1,8 @@
 ---
 layout: project
 title: Actuator Project
+image: /assets/images/image1.jpg
+image: /assets/images/image2.jpg
 ---
 
 Task:
@@ -12,7 +14,3 @@ Force up to 35.81 kN
 Stroke Length: 0.5 cm
 
 It can't be on either edge of the rod because if you place the actuator at point O the system will have a higher height but it can't withstand as much weight. However, if you place the actuatir on the right edge, the height is limited by the actuator's length. 
-
-![Photo of design]({{ "/assets/images/image1.jpg" | relative_url }}){: .inline-image-l}
-
-![Photo of design]({{ "/assets/images/image2.jpg" | relative_url }}){: .inline-image-l}
