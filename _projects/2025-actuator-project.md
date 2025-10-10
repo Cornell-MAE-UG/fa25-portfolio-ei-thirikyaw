@@ -2,12 +2,13 @@
 layout: project
 title: Actuator Project
 image: /assets/images/image1.jpg
-image: /assets/images/image2.jpg
 ---
 
+({{ "/assets/images/image2.jpg" | relative_url }}){: .inline-image-l}
 Task:
 Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length (your choice), 3 pin supports of which two need to be mounted on the ground and a linear actuator (pick from this online catalog, use max force values only), design a
 frame/mechanism to lift the maximum possible weight to the highest possible height. Assume all the supports and bar/actuator are rigid.
+
 
 Selected Actuator: IMA55 RN05
 Force up to 35.81 kN
