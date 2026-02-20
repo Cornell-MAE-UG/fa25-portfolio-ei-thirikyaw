@@ -1,19 +1,14 @@
 ---
+layout: project
+title: SLF Crushers Client Outline
 fontsize: 10.5 pt
 geometry: margin=0.7 in
 papersize: letter
 pagestyle: empty
-header-includes:
-    - \pagenumbering{gobble}
-layout: project
-title: SLF Crushers Client Outline
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
 image: /assets/images/spaceship-design.jpg
 ---
 
 # Project X-termination of SLF
-
 **Team:** SLF Crushers
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
