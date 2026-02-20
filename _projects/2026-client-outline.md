@@ -1,4 +1,13 @@
-## SLF Crushers Client Outline
+---
+layout: project
+title: SLF Crusher Client Outline
+description: Advanced CAD Project
+technologies: [Autodesk Fusion]
+image: /assets/images/radio-machine-cad.jpg
+---
+
+
+# SLF Crushers Client Outline
 
 **Team:** SLF Crushers 
  Alice Park, Nayana Zachariah, Connor Hyde, Serkan Yurday, Ei Thiri Kyaw
@@ -36,9 +45,6 @@ Risk 3: Threshold Failure. Near-total capture is required as only two SLF can ca
 ## References
 
 https://www.psu.edu/news/research/story/lanternflys-attraction-vertical-silhouettes-could-help-monitor-trap-it
-
 https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly/spotted-lanternfly-management#:~:text=Early%20instars%20are%20more%20easily,you%20or%20the%20accidental%20capture
-
 https://ucnj.org/slf/
-
 https://extension.psu.edu/how-to-build-a-spotted-lanternfly-circle-trap
