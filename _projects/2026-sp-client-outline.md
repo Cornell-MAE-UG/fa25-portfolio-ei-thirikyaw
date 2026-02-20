@@ -6,7 +6,7 @@ pagestyle: empty
 header-includes:
     - \pagenumbering{gobble}
 layout: project
-title: Spaceship Design
+title: SLF Crushers Client Outline
 description: Just a spaceship that I designed
 technologies: [SolidWorks, Machining]
 image: /assets/images/spaceship-design.jpg
