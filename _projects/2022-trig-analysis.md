@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Functional Prototype
-image: /assets/images/h.png
+image: /assets/images/h-h.png
 ---
 
 The mechanism of the rotating system is designed to guide flies into a central death chamber using coordinated moving components. The reaper wall and bottom peg plate work together to converge flies toward the center of the trap, where they are then dropped into the death chamber through a rotating floor. The system consists of several key components, including a D-profile rotary shaft made of carbon steel, a motor operating at 3V and 5 RPM, and multiple 3D-printed PLA parts such as the death chamber, reaper wall with six pegs, motor attachment lid, peg plate with 28 pegs, motor shaft connector, and rotating floor. The shaft is cut to a length of six inches with a diameter of 0.25 inches, while most structural components are fabricated through 3D printing.
