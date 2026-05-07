@@ -1,3 +1,9 @@
+---
+layout: project
+title: Open Design Project
+image: /assets/images/h-h.png
+---
+
 # Project X-termination of SLF
 **Team:** SLF Crushers  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
@@ -172,3 +178,7 @@ The prototype supports key design assumptions:
 ### Supporting Materials
 - [Full Project Site](https://alicepark0703.github.io/slf-crushers-mae2250/)
 - [Client Report / Documentation](https://docs.google.com/document/d/1pr_hIzGqb1cMbX0hKJa9c80RG8Kt0VbS1zQ42y45qvE/edit?usp=sharing)
+
+
+
+
